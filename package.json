@@ -1,0 +1,22 @@
+{
+  "name": "rest-api-2",
+  "version": "1.0.0",
+  "description": "Trying making API",
+  "main": "SERVER.js",
+  "title": "require",
+  "scripts": {
+    "devStart": "nodemon SERVER.js"
+  },
+  "author": "Anshika Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.1",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
